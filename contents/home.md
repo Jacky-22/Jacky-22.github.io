@@ -1,17 +1,36 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Jacky-22](https://img.shields.io/badge/Jacky--22-github-blue?logo=github)](https://github.com/Jacky-22)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+我叫陆俊杰，现在就读于上海工程技术大学（SUES），专业为电子信息。研究方向：气体检测、气体分类、数据分析、人工智能。
 
-#### Contact
+#### 基本信息
 
-Email: senli[at]fas.harvard.edu
+- 上海，China · Hometown: Taizhou, Jiangsu  
+- 邮箱：3287322107@qq.com  
+- GitHub：Jacky-22
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 兴趣爱好
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+打篮球、弹钢琴、听音乐、看书。
+
+#### 教育经历
+
+- 硕士研究生（在读），电子信息类方向，上海工程技术大学（SUES），2025.09—至今  
+- 本科，电子信息，泰州学院（TZU），2021.09—2025.06
+
+#### 项目经历
+
+- 全球校园人工智能算法大赛（校园流浪动物救助平台），队长。基于 SpringBoot 与 Vue3 搭建救助平台，结合 Mapmost 三维地图，实现数据可视化、轨迹追踪、反复寻呼与消息推送；获全国一等奖。  
+- 基于 STM32 的老人居住环境监测系统（毕业设计），负责人。集成温度、光照、人体传感与 DTW 动态算法，实现异常检测与数据分析。
+
+#### 荣誉与奖励
+
+- 2023 第五届全球校园人工智能算法大赛 全国一等奖  
+- 2024 第二届全国大学生信息认证挑战赛 全国三等奖  
+- 2025 松江大学城双创经济区“48 小时创客赛”一等奖
+
+#### 技能证书
+
+熟悉 C/C++、Python、MySQL；能进行数据采集与分析；掌握 Markdown、Git；具备嵌入式开发与传感器接入经验。
 
