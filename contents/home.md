@@ -9,8 +9,7 @@
 - 上海，中国 · 家乡：江苏泰州  
 - 邮箱：3287322107@qq.com  
 - GitHub：[Jacky-22](https://github.com/Jacky-22)
- - GitHub：[Jacky-22](https://github.com/Jacky-22)
- - 出生年月：2003.08
+- 出生年月：2003.08
 
 #### 兴趣爱好
 
